@@ -196,6 +196,7 @@ Our team consists of 40 professionals with scientific background and experience 
 
 ### Information of Project Leader:
   [Alexsei Zhukevich](https://www.linkedin.com/in/aleksei-zhukevich-5a24324a/)
+
   Mailbox: nftmoon@gmail.com
 
 ### Legal structure:
@@ -221,8 +222,10 @@ The development of the Alpha version is now in progress. After we test the Alpha
 
 ### Project Direction:
 
-We have prepared full information about NFT Moon Metaverse for Gate: 
+We have prepared full information about NFT Moon Metaverse for Gate:
+ 
 https://moon-metaverse.gitbook.io/materials-for-gate/
+
 https://moon-metaverse.gitbook.io/link-nft-moon-metaverse/
 
 
