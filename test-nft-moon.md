@@ -1,10 +1,10 @@
-# VeChain General Grant Application Template
+# GateChain General Grant Application Template
 
 ## Project Overview 
 
 - Project: NFT Moon Metaverse
 - Team Name: NFT Moon Metaverse
-- Payment Address: 0x197727Ad2EC7326952843Fbd83A0d57B907afbdF (ERC 20 USDT / USDC / BUSD) payment address
+- Payment Address: 0x2e5cdf1705dC0Ef8562b42F38678A8F175c43517 (ERC/BSC 20: USDT / USDC / BUSD) payment address
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 ### Overview
@@ -13,18 +13,12 @@
 ID Cards grants the entrance to the Metaverse where each person can build a personalized reality and experience. Besides networking with other MoonWalkers , one has access to a variety of Metaverse assets: land plots, objects, avatars, advanced designer features. There are over 10 beneficial opportunities in NFT Moon Metaverse — from renting land to creating businesses and events.
 
 We are interested in expanding the blockchains that will be used in the metaverse. Now we use four main blockchains: Polygon, Ethereum, Binance Smart Chain, Avalanche.
-Thanks to the bridge between blockchains, we will implement a bridge for the VeChain blockchain. This will make it possible to move assets of the metaverse (land, ID card, avatars) from other blockchains to the VeChain network and in the opposite direction.
-It will also enable holders of land, id cards, avatars to trade them on marketplaces that support VeChain:
-
- - [World of V](https://marketplace.worldofv.art/)
-  - [VeSea](https://vesea.io/)
-  - [VimWorld](https://www.vimworld.com/vimmarket)
-  - [NFT Paper Project](https://nftpaperproject.com/market)
-  - [BlackVeMarket](https://blackvemarket.com/)
+Thanks to the bridge between blockchains, we will implement a bridge for the GateChain. This will make it possible to move assets of the metaverse (land, ID card, avatars) from other blockchains to the GateChain network and in the opposite direction.
+It will also enable holders of land, id cards, avatars to trade them on marketplaces that support GateChain. We can also create a location with GateChain, which will allow users to get more information about GateChain and projects on GateChain.
 
 
 Thus, we will create a trading path between different blockchains for NFT Moon Metaverse. 
-Example of a bridge that we will use for VeChain:
+Example of a bridge that we will use for GateChain:
 
 - [Bridge](https://nftmoon.space/en/bridge/)
 
@@ -36,14 +30,14 @@ Example of a bridge that we will use for VeChain:
 
 We have been developing NFT Moon Metaverse for a year now . During this time, we have a large audience, as well as buyers of land, id cards, avatars. Currently, work is underway on the alpha version and the addition of new blockchains to the NFT Moon Metaverse.
 
-#### What will be done for the development of VeChain
+#### What will be done for the development of GateChain.
 
-1. A Smart Contract For VeChain will be created (the bridge will do this)
-2. Creating 15-25% of all types of NFT on VeChain (via bridge. This is our assumption, since users decide for themselves which network they use)
+1. A Smart Contract For GateChain will be created (the bridge will do this)
+2. Creating 15-25% of all types of NFT on GateChain (via bridge. This is our assumption, since users decide for themselves which network they use)
 3. Updating the Smart contract for the needs of the Metaverse
-4. Launching a Metaverse on the VeChain blockchain (after alpha is released)
+4. Launching a Metaverse on the GateChain (after alpha is released)
 
-This will give a new influx of users to VeChain. After launching the metaverse, users will move between networks. Example: A user has a plot of land in the Polygon network, he transfers the plot to the VeChain network via a bridge, the sale takes place on the marketplace with the participation of VeChain, then the user decides which network he will use next.
+This will give a new influx of users to GateChain. After launching the metaverse, users will move between networks. Example: A user has a plot of land in the Polygon network, he transfers the plot to the GateChain network via a bridge, the sale takes place on the marketplace with the participation of GateChain, then the user decides which network he will use next.
 
 #### Mockups/Designs of any UI components
 
@@ -106,6 +100,7 @@ Blockchains:
 - Polygon
 - Ethereum
 - BSC
+- GateChain
 - Avalanche
 - VeChain
 - TON
@@ -115,7 +110,6 @@ Blockchains:
 - Elrond
 - Tezos
 - Aurora
-- GateChain
 - Harmony
 ![Скриншот 21 07 22_09 21 04](https://user-images.githubusercontent.com/93310987/180143385-c32d0d6e-0bd5-40bc-b3eb-3904ec78cfc1.jpg)
 
@@ -191,9 +185,6 @@ Our team consists of 40 professionals with scientific background and experience 
 - OXSANA SHERR/PR/Marketing. Worked at Yandex as Head of International communications and PR, then joined TikTok (ByteDance) Eastern Europe Marketing team. PR and marketing advisor of crypto and blockchain project since 2020.
 - DENIS NOVIKOV/Advisor. Working with partners and an affiliate program. Heads the team of the marketing platform TO THE MOON (Sale of plots, id cards, avatars).
 
-### Team Code Repos
-
-- [NFT Moon Metaverse GitHub repository](https://github.com/nftmoonmetaverse) 
 
 ### Team LinkedIn Profiles
 
@@ -203,94 +194,41 @@ Our team consists of 40 professionals with scientific background and experience 
 - [Yuriy Slatin](https://www.linkedin.com/in/yuriy-slatin-92600976/)
 - [Oxy Sherr](https://www.linkedin.com/in/oxy-sherr-21569879/)
 
+### Information of Project Leader:
+  [Alexsei Zhukevich](https://www.linkedin.com/in/aleksei-zhukevich-5a24324a/)
+  Mailbox: nftmoon@gmail.com
 
-## Development Roadmap 
+### Legal structure:
 
-In this part, only the details that relate to the integration of the VeChain bridge will be indicated:
+The company "NFT Moon Metaverse LLC FZ" UAE . 
+License number 2201031.01 
+Address: Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba, Dubai, U.A.E.
 
-- Deployemnt of the bridge smart contracts on VeChain,
-- Launching the full node of VeChain,
-- Running the NFT-Indexer
-- Integrating the transaction fee estimator
-- Integrating VeChain in the fee conversion tool
-- Adding VeChain to the bridge relay validators scope
-- Integrating VeChain in the Bridge's UI
+### Team Code Repos
 
-
-Note: This roadmap will be implemented together with the [XP Network team](https://github.com/xp-network/)
-
-### Example Roadmap for a dApp Application
-
-#### Overview
-
-| | Milestone 1 | Milestone 2 |Milestone 3 |Milestone 4 | Total |
-| - | - | - | - | - | - |
-| Estimated Duration | 10 d | 6 d |4 d | 0 |20 d |
-| Full-time equivalent (FTE) | 22 | 11 | 6 | 0 | 39 |
-| Cost (up to $ 30,000) | $ 15,000 | $ 10,000|$ 5,000|$ 0|$ 30,000|
-
-#### Milestone 1 — Smart Contract 
-
-| Number | Deliverable | Specification |
-|-|-|-|
-| 1 | Smart Contracts | We will develop smart contracts that will:<br>1. Support ERC-721<br>2. Support ERC-1155<br>3. Freeze/Unfreeze Native NFTs<br>4. Mint/Burn wrapped NFTs<br>5. Pay the TX fees on the target chain in native tokens<br>6. Send / Receive NFTs in batches |
-| 2 | Validators | 1. Setting up the VeChain Node for listening to the events<br>2. Adding the logic to the validators. Working with validators executes [XP Network team](https://github.com/xp-network/)|
-| 3 | Backend | Integration of VeChain in the:<br>1. NFT Index<br>2. TX Fee Estimator<br>3. Crypto-currency converter |
-
-#### Milestone 2 — API and frontend
-
-| Number | Deliverable | Specification |
-|-|-|-|
-| 4 | JS API | Using the XP Network [JS API Library](https://github.com/nftmoonmetaverse/bridje-js). |
-| 5 | Frontend | Integration of VeChain in the:<br>1.[User Interface](https://github.com/nftmoonmetaverse/bridge-interface) <br> 2. Wallets (Metamask, TrustWallet, WalletConnect) for networks that support work with ERC721 and ERC1155 <br> 3. Placing the bridge on [the main website](https://nftmoon.space/en/bridge/) <br> 4. VeChain Wallet Integration ([Sync2](https://github.com/nftmoonmetaverse/vechain-sync2)) |
-| 6 | Upload the smart contract ABI | Upload the smart contract ABI to [B32](https://github.com/vechain/b32) for the reviewers to review |
-
-#### Milestone 3 —  Creating collections on NFT marketplaces
-
-| Number | Deliverable | Specification |
-|-|-|-|
-| 7 | NFT marketplaces | Creating a collection for NFT Moon Metaverse lands and ID card on marketplaces supporting VeChain |
-| 8 | Demonstration | A separate page will be created with a video demonstration of [the bridge and instructions](https://app.gitbook.com/s/2JroxcMNkez21Qj4ndi0/bridge/bridge-vechain) , as well as links to the bridge and collections in marketplaces |
-
-#### Milestone 4 —  Implementation of VeChain in the Alpha version
-
-| Number | Deliverable | Specification |
-|-|-|-|
-| 9 | Alpha version |  1. Creating 15-25% of all types of NFT on VeChain via bridge (This is our assumption, since users decide for themselves which network they use).<br> 2. Updating the Smart contract for the needs of the Metaverse.<br> 3. Launching a Metaverse on the VeChain blockchain (after alpha is released) |
-
+- [NFT Moon Metaverse GitHub repository](https://github.com/nftmoonmetaverse) 
 
 
 #### Tangible result
 
-How can I check if the VeChain bridge is implemented. To do this, go to the official website of [NFT Moon Metaverse](https://nftmoon.space/en/bridge/) and you can easily transfer the plot, id card and other assets of the metaverse across the bridge. To do this, select the destination network VeChain.
+How can I check if the GateChain bridge is implemented. To do this, go to the official website of [NFT Moon Metaverse](https://nftmoon.space/en/bridge/) and you can easily transfer the plot, id card and other assets of the metaverse across the bridge. To do this, select the destination network GateChain.
 
 ![54454](https://user-images.githubusercontent.com/93310987/181768956-1e69dd89-ef85-4eb4-9a78-5857811569ed.jpg)
 
-As a result of two stages of work, we will implement a bridge for the official NFT Moon Metaverse website. The bridge is needed to move metaverse assets from the Ethereum and Polygon networks to other networks, including VeChain. And also in the opposite direction. 
+As a result of two stages of work, we will implement a bridge for the official NFT Moon Metaverse website. The bridge is needed to move metaverse assets from the Ethereum and Polygon networks to other networks, including GateChain. And also in the opposite direction. 
 Important! 
-The development of the Alpha version is now in progress. After we test the Alpha version with the main Polygon network, we will add integration with other networks, including VeChain. Also connecting wallets , including VeChain Sync2 . Up to this point, we are introducing the ability to buy and transfer metaverse assets between networks right now, even before the launch of the alpha version using Bridges.
+The development of the Alpha version is now in progress. After we test the Alpha version with the main Polygon network, we will add integration with other networks, including GateChain. Also connecting wallets GateChain . Up to this point, we are introducing the ability to buy and transfer metaverse assets between networks right now, even before the launch of the alpha version using Bridges.
 
-#### Community engagement
+### Project Direction:
 
-As part of the Program, we will prepare and publish articles describing the capabilities of the VeChain blockchain, as well as tell the audience of our social networks about how you can now sell your NFT lands, ID cards on marketplaces:
-  - [World of V](https://marketplace.worldofv.art/)
-  - [VeSea](https://vesea.io/)
-  - [VimWorld](https://www.vimworld.com/vimmarket)
-  - [NFT Paper Project](https://nftpaperproject.com/market)
-  - [BlackVeMarket](https://blackvemarket.com/)
-
-## Future Plans
-
-What we intend to do in the near future and what are our intentions:
-
-- To release an alpha version, where owners of plots, avatars, id cards from different blockchains will be able to stay and develop inside the NFT Moon Metaverse.
-- Launching the NFT wrapping and splitting mechanism inside the metaverse.
-- Launching an internal marketplace.
-- The start of the first season in NFT Moon Metaverse.
-- Launching the NFT farmig.
+We have prepared full information about NFT Moon Metaverse for Gate: 
+https://moon-metaverse.gitbook.io/materials-for-gate/
+https://moon-metaverse.gitbook.io/link-nft-moon-metaverse/
 
 
 ## Additional Information 
 
 All the work done can be checked on [GitBook](https://moon-metaverse.gitbook.io/link-nft-moon-metaverse/).
 To date, we have not attracted investments from foundations and other projects through grants. All this time we are developing at the expense of our own money and money raised from the sale of plots, id cards, avatars. Only now have we started the process of communicating with foundations and grants.
+
+
