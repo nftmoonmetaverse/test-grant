@@ -228,6 +228,27 @@ We see several stages of growth of the project and Secret Network:
 - Launch of a full-fledged marketplace for the sale of physical goods.
 - Partnership with the developer of (VR/AR/XR) glasses for NFT Moon Metaverse.
 
+### Value capture for Secret Network ecosystem
+
+NFT Moon Metaverse is the only multi-blockchain metaverse where the user can easily use any of the provided networks and which will be added in the future. In addition, there is a direct motivation for the user to use the metaverse, since the created content brings rewards (Create@Earn). The direct benefit of the Secret Network is in the growth of users and the number of transactions, the presence of its own location in the metaverse with benefits for users. This will motivate users to use the Secret Network.
+
+Why is it unique:
+
+The distinctive feature of NFT Moon Metaverse is its connection to the real world. MoonWalkers – the community on the NFT Moon – are creating an ecosystem that can become a micro-simulator for building economies and organizing life on other planets, in which people can organize life in space in the distant future, find soulmates and create communities, build businesses, cities, economies, learn new thing, and, of course, make real money. 
+
+USPs:
+
+* Multi blockchain. 
+* Decentralized (governed by DAO).
+* Create-to-Earn model, creator economy.
+* A web framework for building 3D/AR/VR experiences.
+* Personalization.
+* Immersive futuristic experience & AI assistants.
+* Create, Learn, Earn, Vote, Enjoy, Rule = CLEVER experience.
+* Open Metaverse concept.
+
+Conclusion: Using Secret Network in NFT Moon Metaverse gives the user a unique experience and contributes to the growth of users in Secret Network and NFT Moon Metaverse.
+
 ### Development Roadmap
 
 
@@ -263,16 +284,16 @@ We are counting on a grant amount of $55,000. We will also be glad if you do net
 
 Our main goal is to create a convenient metaverse for human development in the virtual world, to create tools that will help millions of people build a new life in a futuristic metaverse: build businesses, create jobs, engage in creativity, create games, hold meetings and events, build virtual real estate and avatars.
 
-Goal 1: Launch the Alpha version.
-Goal 2: Create the first 10 spaces of different themes.
-Goal 3: Connect bridges to 9 more blockchains.
-Goal 4: The growth of the audience of social networks to 300,000 people. Now there are more 175 k people in all social networks.
-Goal 5: Open the First season with an audience of 10,000 plot holders, id card.
-Goal 6: The start of the mechanism of division of plots and farming of NFT.
-Goal 7: Launching two seasons of the metaverse.
-Goal 8: Partnership with major brands.
-Goal 9: Holding major events for companies and world stars.
-Goal 10: Integration of educational institutions into the metaverse.
-Goal 11: Creating a protocol that allows you to easily transfer assets from one metaverse to another.
-Goal 12: Launch of a full-fledged marketplace for the sale of physical goods.
-Goal 13: Partnership with the developer of (VR/AR/XR) glasses for NFT Moon Metaverse.
+- Goal 1: Launch the Alpha version.
+- Goal 2: Create the first 10 spaces of different themes.
+- Goal 3: Connect bridges to 9 more blockchains.
+- Goal 4: The growth of the audience of social networks to 300,000 people. Now there are more 175 k people in all social networks.
+- Goal 5: Open the First season with an audience of 10,000 plot holders, id card.
+- Goal 6: The start of the mechanism of division of plots and farming of NFT.
+- Goal 7: Launching two seasons of the metaverse.
+- Goal 8: Partnership with major brands.
+- Goal 9: Holding major events for companies and world stars.
+- Goal 10: Integration of educational institutions into the metaverse.
+- Goal 11: Creating a protocol that allows you to easily transfer assets from one metaverse to another.
+- Goal 12: Launch of a full-fledged marketplace for the sale of physical goods.
+- Goal 13: Partnership with the developer of (VR/AR/XR) glasses for NFT Moon Metaverse.
