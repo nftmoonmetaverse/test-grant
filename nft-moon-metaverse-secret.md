@@ -228,5 +228,51 @@ We see several stages of growth of the project and Secret Network:
 - Launch of a full-fledged marketplace for the sale of physical goods.
 - Partnership with the developer of (VR/AR/XR) glasses for NFT Moon Metaverse.
 
+### Development Roadmap
 
 
+Milestone 1 — Smart Contract Developmen:
+
+0. Research about Secret Network standards and other factors & protocols that distinguish it from other chains.
+1. Support Singe & Batch transfers.
+2. Freeze/Unfreeze Native NFTs.
+3. Mint/Burn wrapped NFTs.
+4. Withdraw the TX fees on the target chain in native tokens.
+5. Trust the multisig of the bridge oracle validators.
+6. Whitelist NFT smart contracts.
+7. Pause/Unpause for maintenance or if compromised.
+8. Reimburse the bridge validators their expenses.
+
+Milestone 2 — Integrating into the Bridge and Website:
+
+1. Developing validation logic relevant for the Secret Network part of the bridge.
+2. Adding Secret Network to the Bridge NFT-Indexer.
+3. Integrating TX fee estimation.
+4. Plugging Secret Network in the heartbeat.
+5. Integrating with a Secret Network RPC node.
+6. Integrating Secret Network in the bridge UI.
+7. Deploying smart contracts.
+8. Adding Secret Network to the bridge JS library.
+9. Adding access to Secret Network from the REST API.
+10. Adding Secret Network to the bridge widget.
+11. Adding a Secret Network Bridge to All Metaverse Websites.
+
+We are counting on a grant amount of $55,000. We will also be glad if you do networking with future funds.
+
+### Future Plans
+
+Our main goal is to create a convenient metaverse for human development in the virtual world, to create tools that will help millions of people build a new life in a futuristic metaverse: build businesses, create jobs, engage in creativity, create games, hold meetings and events, build virtual real estate and avatars.
+
+Goal 1: Launch the Alpha version.
+Goal 2: Create the first 10 spaces of different themes.
+Goal 3: Connect bridges to 9 more blockchains.
+Goal 4: The growth of the audience of social networks to 300,000 people. Now there are more 175 k people in all social networks.
+Goal 5: Open the First season with an audience of 10,000 plot holders, id card.
+Goal 6: The start of the mechanism of division of plots and farming of NFT.
+Goal 7: Launching two seasons of the metaverse.
+Goal 8: Partnership with major brands.
+Goal 9: Holding major events for companies and world stars.
+Goal 10: Integration of educational institutions into the metaverse.
+Goal 11: Creating a protocol that allows you to easily transfer assets from one metaverse to another.
+Goal 12: Launch of a full-fledged marketplace for the sale of physical goods.
+Goal 13: Partnership with the developer of (VR/AR/XR) glasses for NFT Moon Metaverse.
