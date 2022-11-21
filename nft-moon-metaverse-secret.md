@@ -301,15 +301,16 @@ Our main goal is to create a convenient metaverse for human development in the v
 ## Additional Information
 
 During the year, we raised $360,000 through the sale of metaverse assets. Recently sold: land plots - 400, id card - 700, avatars - 99, token holders  - 5844 wallets.
-Skale has provided us with a grant for the development and promotion of NFT Moon Metaverse and we also hope to cooperate with you.
+[Skale ](https://skale.space/blog/multi-blockchain-metaverse-nft-moon-metaverse-is-building-on-skale) has provided us with a grant for the development and promotion of NFT Moon Metaverse and we also hope to cooperate with you.
 
 Important links:
 
-All materials and links: https://moon-metaverse.gitbook.io/materials-for-gate/
-Whitepaper: https://moon-metaverse.gitbook.io/whitepaper-nft-moon-metaverse-v1.1/
-Team: https://app.gitbook.com/s/iD7aln8Nf00m4Ok8W7Q7/team
-Prototype: https://app.gitbook.com/s/2JroxcMNkez21Qj4ndi0/prototype
-Company documents: https://app.gitbook.com/s/2JroxcMNkez21Qj4ndi0/company-documents
-Articles in the media: https://app.gitbook.com/s/2JroxcMNkez21Qj4ndi0/articles-in-the-media
-Partners: https://app.gitbook.com/s/2JroxcMNkez21Qj4ndi0/partners
+- All materials and links: https://moon-metaverse.gitbook.io/materials-for-gate/
+- Whitepaper: https://moon-metaverse.gitbook.io/whitepaper-nft-moon-metaverse-v1.1/
+- PitchDeck: https://drive.google.com/file/d/18-9IjYPYgt8_GiZyDvloCs3QhMBwKdSy/view
+- Team: https://app.gitbook.com/s/iD7aln8Nf00m4Ok8W7Q7/team
+- Prototype: https://app.gitbook.com/s/2JroxcMNkez21Qj4ndi0/prototype
+- Company documents: https://app.gitbook.com/s/2JroxcMNkez21Qj4ndi0/company-documents
+- Articles in the media: https://app.gitbook.com/s/2JroxcMNkez21Qj4ndi0/articles-in-the-media
+- Partners: https://app.gitbook.com/s/2JroxcMNkez21Qj4ndi0/partners
 
